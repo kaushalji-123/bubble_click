@@ -1,0 +1,8 @@
+sabse pahle ye check karo ki mouce rectangel me hai ki nahi 
+uske baad ye calculate krna hai ki hum center se left me hai ya center se right se hai 
+after this calculte hum center se kitna left or kitne right par hai
+jitna aap left se hai utni intensity se color lagao mean jaise jaise hum center se left jane lage to 
+color or jyada dark hote jana for exp : we coosen color: red 
+
+then the color center se thora bhi left jaye toh color light red or left thora dark red and more left nearest to the border line then 
+Extreme Red hona chahiye ....
